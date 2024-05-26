@@ -1,5 +1,9 @@
 Христијан Давидовски 223252
 
+Control Flow Graph
+
+![ULM SLIKA](https://github.com/davidoviski/SI_2024_lab2_223252/assets/138602939/8488aa7a-db86-41b6-9ff6-af6d9b6c4a8e)
+
 Тест случаи според критериумот Every statement
 
 ТЕСТ 1: Проверка дали (allItems== null), за влез имаме allItems= null и payment = 50, имаме очекуван излез за искулучок со порака "allItems list can't be null!".
